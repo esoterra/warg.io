@@ -28,6 +28,10 @@ Please join us in making `warg` a reality!!
 
 `warg` is a Bytecode Alliance project within the [Registries SIG](). Instructions for joining the meetings and reading our minutes can be found [here](https://github.com/bytecodealliance/meetings/tree/main/sig-registries).
 
+### Zulip
+
+`warg` has a stream on the Bytecode Alliance Zulip that you can find [here](https://bytecodealliance.zulipchat.com/#narrow/stream/352111-warg).
+
 ### Repos
 
 Code and specifications are a work-in-progress, please attend our meetings before filing any significant issues/PRs.
