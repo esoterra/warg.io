@@ -1,6 +1,6 @@
 # warg
 
-`warg` is an in-development open source registry protocol for [Wasm](https://webassembly.org/) packages. `warg` is an index allowing everyone to refer to federated namespaces of Wasm packages without being opinionated about how package content is stored and hosted.
+`warg` is an in-development open source registry protocol for [Wasm](https://webassembly.org/) packages. `warg` provides an index allowing everyone to refer to federated namespaces of Wasm packages without being opinionated about how package content is stored and hosted.
 
 Check out our Cloud Native Wasm Day talk [slides](https://static.sched.com/hosted_files/cloudnativewasmdayna22/46/Wasm%20Day%20-%20SIG-Registry%20Talk.pdf)!
 
