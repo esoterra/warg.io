@@ -26,7 +26,7 @@ Please join us in making `warg` a reality!!
 
 ### Bytecode Alliance Registries SIG
 
-`warg` is a Bytecode Alliance project within the [Registries SIG](). Instructions for joining the meetings and reading our minutes can be found [here](https://github.com/bytecodealliance/meetings/tree/main/sig-registries).
+`warg` is a Bytecode Alliance project within the [Packaging SIG](https://github.com/bytecodealliance/meetings/tree/main/SIG-Packaging). Instructions for joining the meetings and reading our minutes can be found [here](https://github.com/bytecodealliance/meetings/tree/main/SIG-Packaging).
 
 ### Zulip
 
