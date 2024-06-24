@@ -36,6 +36,5 @@ Please join us in making `warg` a reality!!
 
 Code and specifications are a work-in-progress, please attend our meetings before filing any significant issues/PRs.
 
-* [Registry Design and Specification](https://github.com/bytecodealliance/SIG-Registries/)
+* [Registry Design and Specification](https://github.com/bytecodealliance/registry)
   * [`warg` Proposal](https://github.com/bytecodealliance/SIG-Registries/pull/25)
-* [Registry Prototypes & Reference Implementation](https://github.com/bytecodealliance/registry)
